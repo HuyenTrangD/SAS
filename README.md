@@ -1,4 +1,4 @@
-# Challenge: How to Learn SAS Programming
+# Challenge: Learn how to program in SAS
 
 ## Introduction
 
