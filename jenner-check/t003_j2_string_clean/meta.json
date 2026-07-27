@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_j2_string_clean",
+  "source_file": "SAS_J2.sas",
+  "source_blob_sha": "c960e86cd091e5bd399dc7a4f4060949c13d4fa7",
+  "source_commit": "e5dcc4e7dc7c785245e83b417fe362667661c8df",
+  "notes": "J2: string-cleaning functions LENGTH, TRIMN, STRIP, COMPBL and COMPRESS with character-class modifiers ('i','a','d'). Loose open-code COMPRESS/COMPBL statements from the tutorial folded into their SAMPLE1 DATA step so the block is valid; inline literals only."
+}

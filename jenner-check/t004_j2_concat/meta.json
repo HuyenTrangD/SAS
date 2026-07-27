@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_j2_concat",
+  "source_file": "SAS_J2.sas",
+  "source_blob_sha": "c960e86cd091e5bd399dc7a4f4060949c13d4fa7",
+  "source_commit": "e5dcc4e7dc7c785245e83b417fe362667661c8df",
+  "notes": "J2: string concatenation three ways -- the || operator, CAT, and CATX with a '-' delimiter. Inline literals only."
+}

@@ -1,0 +1,38 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA SAMPLE
+
+NOTE: Processing inline DATALINES (6 lines)
+
+NOTE: Read 6 rows from DATALINES.
+NOTE: Wrote SAMPLE (6 rows, 1 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA CHANGE_CASE
+
+
+NOTE: Read 6 rows from SAMPLE.
+NOTE: Wrote CHANGE_CASE (6 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA NAME_LIST
+
+NOTE: Processing inline DATALINES (6 lines)
+
+NOTE: Read 6 rows from DATALINES.
+NOTE: Wrote NAME_LIST (6 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA SAMPLE2
+
+
+NOTE: Read 6 rows from NAME_LIST.
+NOTE: Wrote SAMPLE2 (6 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=SAMPLE2
+
+NOTE: PROC PRINT completed: 6 observations printed, 3 variables

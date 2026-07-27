@@ -1,0 +1,7 @@
+{
+  "bundle": "t007_j3_prxmatch_phone",
+  "source_file": "SAS_J3.sas",
+  "source_blob_sha": "86d97d0b8dd54d3aed5b6d5251dec533c2b1d27b",
+  "source_commit": "e5dcc4e7dc7c785245e83b417fe362667661c8df",
+  "notes": "J3: PRXMATCH with the /\\d{10}/ pattern locating a 10-digit phone number inside free-text comments, then SUBSTR pulling the 10 digits out. Comments from inline DATALINES."
+}

@@ -1,0 +1,39 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA SAMPLE1
+
+
+NOTE: Wrote SAMPLE1 (1 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA SAMPLE1
+
+
+NOTE: Wrote SAMPLE1 (1 rows, 8 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA SAMPLE2
+
+
+NOTE: Wrote SAMPLE2 (1 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA SAMPLE2
+
+
+NOTE: Wrote SAMPLE2 (1 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA SAMPLE2
+
+
+NOTE: Wrote SAMPLE2 (1 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=SAMPLE2
+
+NOTE: PROC PRINT completed: 1 observations printed, 2 variables

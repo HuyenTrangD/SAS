@@ -1,0 +1,7 @@
+{
+  "bundle": "t006_j3_tranwrd_case",
+  "source_file": "SAS_J3.sas",
+  "source_blob_sha": "86d97d0b8dd54d3aed5b6d5251dec533c2b1d27b",
+  "source_commit": "e5dcc4e7dc7c785245e83b417fe362667661c8df",
+  "notes": "J3: UPCASE/LOWCASE/PROPCASE on a CARDS name list, then TRANWRD driven by IF/THEN/ELSE IF to swap the MS/MR title according to GENDER. Inline data only."
+}

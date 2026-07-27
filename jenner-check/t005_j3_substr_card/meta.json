@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_j3_substr_card",
+  "source_file": "SAS_J3.sas",
+  "source_blob_sha": "86d97d0b8dd54d3aed5b6d5251dec533c2b1d27b",
+  "source_commit": "e5dcc4e7dc7c785245e83b417fe362667661c8df",
+  "notes": "J3: SUBSTR both as an extractor (last 4 digits from position 12) and on the left of the assignment to mask positions 5-12 with asterisks. Card numbers from inline DATALINES."
+}

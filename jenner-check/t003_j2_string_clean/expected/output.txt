@@ -1,0 +1,5 @@
+                                              COMPRESS AVEC MODIFICATEURS
+
+  Obs             VALUES  NEW_VALUE
+    1  as dlkfjA127394;%   ;%
+

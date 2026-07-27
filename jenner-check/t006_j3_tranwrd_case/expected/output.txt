@@ -1,0 +1,10 @@
+                                                 TRANWRD SELON LE GENRE
+
+  Obs         NAME  GENDER        NAME2
+    1  MS.RAJEEV    M       MR.RAJEEV
+    2  MR.JULLY     F       MS.JULLY
+    3  MS.MALHOTRA  F       MS.MALHOTRA
+    4  MR.KARTIK    M       MR.KARTIK
+    5  MS.SINHA     F       MS.SINHA
+    6  MS.DIVA      F       MS.DIVA
+

@@ -1,0 +1,8 @@
+                                                       FIRST_DATA
+
+  Obs  EMPLOYEE  SALARY
+    1  SAMuel      1200
+    2  ROHAN       4300
+    3  LUCAS        500
+    4  MICHEL       200
+

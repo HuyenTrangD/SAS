@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-27T04:16:51.707085+00:00",
+  "_captured_run_id": "r_5042838ae03a46b191775e01a4e8b880",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC CONTENTS data=SASHELP.CARS",
+    "NOTE: PROC CONTENTS completed: 12 observations, 15 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
