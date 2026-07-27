@@ -1,0 +1,7 @@
+                                             NUMEROS DE TELEPHONE EXTRAITS
+
+  Obs  MOBILE_NUMBER
+    1  9765543331
+    2  8844993366
+    3  9988998855
+

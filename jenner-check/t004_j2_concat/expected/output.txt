@@ -1,0 +1,5 @@
+                                                  CATX AVEC DELIMITEUR
+
+  Obs   FIRST    LAST          FULL1
+    1  THOMAS  CRUISE  THOMAS-CRUISE
+

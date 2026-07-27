@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_j2_proc_contents",
+  "source_file": "SAS_J2.sas",
+  "source_blob_sha": "c960e86cd091e5bd399dc7a4f4060949c13d4fa7",
+  "source_commit": "e5dcc4e7dc7c785245e83b417fe362667661c8df",
+  "notes": "J2: PROC CONTENTS on SASHELP.CARS, alphabetical then VARNUM (creation) order. Self-contained (SASHELP only)."
+}

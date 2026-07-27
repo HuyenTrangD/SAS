@@ -1,0 +1,62 @@
+
+PROC CONTENTS
+-------------------------------------------------------------------------------
+
+Data Set Name: SASHELP.CARS
+Observations:  12
+Variables:     15
+Label:         Automobile specifications
+
+Variables (in alphabetical order):
+
+  #  Variable     Type    Len  Format  Label
+---  -----------  ----  -----  ------  -----------------------------------
+  1  CYLINDERS     Num      8          Number of cylinders
+  2  DRIVETRAIN   Char    200          Drive train type
+  3  ENGINESIZE    Num      8          Engine size (liters)
+  4  HORSEPOWER    Num      8          Maximum horsepower
+  5  INVOICE       Num      8          Invoice price
+  6  LENGTH        Num      8          Length in inches
+  7  MAKE         Char    200          Manufacturer
+  8  MODEL        Char    200          Model name
+  9  MPG_CITY      Num      8          City miles per gallon
+ 10  MPG_HIGHWAY   Num      8          Highway miles per gallon
+ 11  MSRP          Num      8          Manufacturer suggested retail price
+ 12  ORIGIN       Char    200          Region of origin
+ 13  TYPE         Char    200          Vehicle type
+ 14  WEIGHT        Num      8          Weight in pounds
+ 15  WHEELBASE     Num      8          Wheelbase in inches
+
+-------------------------------------------------------------------------------
+
+
+PROC CONTENTS
+-------------------------------------------------------------------------------
+
+Data Set Name: SASHELP.CARS
+Observations:  12
+Variables:     15
+Label:         Automobile specifications
+
+Variables (in creation order):
+
+  #  Variable     Type    Len  Format  Label
+---  -----------  ----  -----  ------  -----------------------------------
+  1  MAKE         Char    200          Manufacturer
+  2  MODEL        Char    200          Model name
+  3  TYPE         Char    200          Vehicle type
+  4  ORIGIN       Char    200          Region of origin
+  5  DRIVETRAIN   Char    200          Drive train type
+  6  MSRP          Num      8          Manufacturer suggested retail price
+  7  INVOICE       Num      8          Invoice price
+  8  ENGINESIZE    Num      8          Engine size (liters)
+  9  CYLINDERS     Num      8          Number of cylinders
+ 10  HORSEPOWER    Num      8          Maximum horsepower
+ 11  MPG_CITY      Num      8          City miles per gallon
+ 12  MPG_HIGHWAY   Num      8          Highway miles per gallon
+ 13  WEIGHT        Num      8          Weight in pounds
+ 14  WHEELBASE     Num      8          Wheelbase in inches
+ 15  LENGTH        Num      8          Length in inches
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_j1_data_subset",
+  "source_file": "SAS_J1.sas",
+  "source_blob_sha": "880d133cb42fb56d60d9004c1c21c807f93ac50a",
+  "source_commit": "e5dcc4e7dc7c785245e83b417fe362667661c8df",
+  "notes": "J1 head: KEEP=/DROP= column selection, IF/THEN OUTPUT to two datasets, _N_ line subsetting, OBS=/FIRSTOBS= dataset options on SASHELP.CARS, plus an INPUT/DATALINES employee table. Self-contained (SASHELP + inline data); PROC PRINT added to show the DATALINES table."
+}
